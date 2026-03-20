@@ -124,7 +124,11 @@ Foi criada uma aplicação chamada **TravelCorp**, capaz de:
 
 ## ⚙️ Automação em Funcionamento
 
-![Fluxo](fluxoCriarNovoCliente.gif)
+### 📑 Criar Novo Cliente
+![Fluxo Criar Novo Cliente](fluxoCriarNovoCliente.gif)
+
+### 📑 Enviar Email
+![Fluxo Enviar Email](fluxoEnviarEmail.gif)
 
 ## 👨‍💻 Sobre o Autor
 
