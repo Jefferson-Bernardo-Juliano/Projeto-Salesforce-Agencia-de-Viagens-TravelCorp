@@ -122,6 +122,10 @@ Foi criada uma aplicação chamada **TravelCorp**, capaz de:
 ### 🌍 Pacote de Viagem
 ![Pacote](pacote.png)
 
+## ⚙️ Automação em Funcionamento
+
+![Fluxo](fluxoCriarNovoCliente.gif)
+
 ## 👨‍💻 Sobre o Autor
 
 **Jefferson Bernardo Juliano da Silva**
