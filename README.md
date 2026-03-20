@@ -114,13 +114,13 @@ Foi criada uma aplicação chamada **TravelCorp**, capaz de:
 ## 📸 Demonstração
 
 ### 👤 Cliente
-![Cliente](images/cliente.png)
+![Cliente](cliente.png)
 
 ### 📑 Reserva
-![Reserva](images/reserva.png)
+![Reserva](reserva.png)
 
 ### 🌍 Pacote de Viagem
-![Pacote](images/pacote.png)
+![Pacote](pacote.png)
 
 ## 👨‍💻 Sobre o Autor
 
